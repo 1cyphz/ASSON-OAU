@@ -1,0 +1,6 @@
+{
+  "name": "ASSON OAU - Association of Statistics Students of Nigeria",
+  "description": "Official online portal for the Association of Statistics Students of Nigeria (ASSON), Obafemi Awolowo University Chapter. Department of Statistics. Motto: Facts with reliable figures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
